@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/texture">
+        <file>resources/texture/red_sq_32.png</file>
+        <file>resources/texture/yellow_sq_32.png</file>
+        <file>resources/texture/blue_sq_32.png</file>
+        <file>resources/texture/background.png</file>
+        <file>resources/texture/block_out.png</file>
+        <file>resources/texture/cyan_sq_32.png</file>
+        <file>resources/texture/gray_sq_32.png</file>
+        <file>resources/texture/green_sq_32.png</file>
+        <file>resources/texture/magenta_sq_32.png</file>
+        <file>resources/texture/orange_sq_32.png</file>
+        <file>resources/texture/pause.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>resources/icon/arrow_down.svg</file>
+        <file>resources/icon/arrow_left.svg</file>
+        <file>resources/icon/arrow_right.svg</file>
+        <file>resources/icon/arrow_up.svg</file>
+        <file>resources/icon/pause_circle.svg</file>
+        <file>resources/icon/play_circle.svg</file>
+        <file>resources/icon/rotate.svg</file>
+        <file>resources/icon/settings.svg</file>
+        <file>resources/icon/time.svg</file>
+        <file>resources/icon/volume_down.svg</file>
+        <file>resources/icon/volume_mute.svg</file>
+        <file>resources/icon/volume_up.svg</file>
+        <file>resources/icon/skip_forward.svg</file>
+    </qresource>
+    <qresource prefix="/sfx">
+        <file>resources/sfx/game_over.wav</file>
+        <file>resources/sfx/item_moved_sideway.wav</file>
+        <file>resources/sfx/item_placed.wav</file>
+        <file>resources/sfx/item_rotate.wav</file>
+        <file>resources/sfx/line_completed.wav</file>
+        <file>resources/sfx/next_level.wav</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resources/music/track_1.mp3</file>
+        <file>resources/music/track_2.mp3</file>
+        <file>resources/music/track_3.mp3</file>
+        <file>resources/music/track_4.mp3</file>
+    </qresource>
+</RCC>
